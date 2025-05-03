@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/simonwfarrow-worldpay-mcp-badge.png)](https://mseep.ai/app/simonwfarrow-worldpay-mcp)
+
 # Introduction
 
 This is a simple MCP server for Worldpay APIs.
